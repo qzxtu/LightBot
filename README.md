@@ -14,7 +14,7 @@ Here are the steps to use LightBot:
 ## Usage
 
 - Copy the code for LightBot and paste it into a Python file on your local machine.
-- Replace "YourTokenHere" with the bot token you obtained in step 2 of the Installation section.
+- Replace ```"YourTokenHere"```  with the bot token you obtained in step 2 of the Installation section.
 - If desired, modify the default_enabled_guilds variable to specify which guilds your bot will be enabled in.
 - Run the Python file to start the bot.
 - Type the specified slash commands in any channel on your Discord server to use LightBot's functionality.
